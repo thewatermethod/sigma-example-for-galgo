@@ -236,6 +236,13 @@
       }
 
 
+fs.writeFile('./dist/data.json', `${JSON.stringify(data, null, 2)}`, (err)=> {
+  if (err) {
+      console.log(err)
+  };
+})      
+
+
 fs.writeFile('./data.js', `export const data = ${JSON.stringify(data, null, 2)}`, (err)=> {
     if (err) {
         console.log(err)

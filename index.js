@@ -1,16 +1,20 @@
 import {data} from './data';
 import sigma from "sigma";
 
-sigma.classes.graph.addMethod('neighbors', function(nodeId) {
-    var k,
-        neighbors = {},
-        index = this.allNeighborsIndex[nodeId] || {};
 
-    for (k in index)
+sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+
+    var k;
+    var neighbors = {};
+    var index = this.allNeighborsIndex[nodeId] || {};
+
+    for (k in index){
       neighbors[k] = this.nodesIndex[k];
+    }
 
     return neighbors;
 });
+
 
 
 const s = new sigma({
