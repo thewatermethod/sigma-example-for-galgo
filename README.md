@@ -1,13 +1,9 @@
 # Sigma Example for Galgo
 
-## prequesites
-
-I used [parcel](https://parceljs.org/getting_started.html) as a web server/build process - you'll need to have that installed 
-
 ## To run
 
 * npm install
-* parcel index.html
+* npm run dev
 * http://localhost:1234/
 
 ## Other
