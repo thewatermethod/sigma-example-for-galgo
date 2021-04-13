@@ -59,5 +59,5 @@ s.bind('clickNode', function(e) {
     // Since the data has been modified, we need to
     // call the refresh method to make the colors
     // update effective.
-    s.refresh(); //
+    s.refresh(); 
   });
