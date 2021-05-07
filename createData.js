@@ -229,7 +229,7 @@
           source: uniqueLinkages[i][0],
           target: uniqueLinkages[i][1],
           size: fraction,
-          type: "curve",
+      //    type: "curve",
           color: colors[Math.floor(Math.random() * 7)], // ('#'.concat(Math.round((fraction * 10)))).concat('00'), //  // '#ccc',
           hover_color: "#000",
         });

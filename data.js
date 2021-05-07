@@ -1503,7 +1503,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "Deshecho",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1512,7 +1511,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "El",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1520,7 +1518,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "Espa\\u00f1a",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1529,7 +1526,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "Perdido",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1538,7 +1534,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "\\u00a1Muerta",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1547,7 +1542,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "abatido",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1556,7 +1550,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "ardid",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -1565,7 +1558,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "armas",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1574,7 +1566,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "arr\\u00e9ciate",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1583,7 +1574,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "astucia",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1591,7 +1581,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "aviva",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1599,7 +1588,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "ca\\u00eddo",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1608,7 +1596,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "capaz",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -1617,7 +1604,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "carec\\u00e9is",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1626,7 +1612,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "ciego",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1635,7 +1620,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "cielo",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1644,7 +1628,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "contrari\\u00f3",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1653,7 +1636,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "cordura",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1662,7 +1644,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "desventurado",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1670,7 +1651,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "determinaci\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1679,7 +1659,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "disposici\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1688,7 +1667,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "dolor",
       "size": 0.8,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1697,7 +1675,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "dolor",
       "size": 0.8,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1705,7 +1682,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "dolor",
       "size": 0.8,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1714,7 +1690,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "dolor",
       "size": 0.8,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1723,7 +1698,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "estimados",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1732,7 +1706,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "flaqueza",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1741,7 +1714,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "fuerzas",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1750,7 +1722,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "gentileza",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1759,7 +1730,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "gracia",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1768,7 +1738,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "guerra",
       "size": 0.4,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1777,7 +1746,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "guerra",
       "size": 0.4,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1785,7 +1753,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "l\\u00e1grimas",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1793,7 +1760,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "l\\u00e1stimas",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -1802,7 +1768,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "lealtad",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1810,7 +1775,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "liberalidad",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1819,7 +1783,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "linaje",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1828,7 +1791,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "llagas",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1837,7 +1799,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "mal",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1846,7 +1807,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "memoria",
       "size": 0.4,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1855,7 +1815,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "memoria",
       "size": 0.4,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1864,7 +1823,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "moros",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1872,7 +1830,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "natural",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1881,7 +1838,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "no",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1890,7 +1846,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "ofrecimiento",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1899,7 +1854,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "ordinario",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1908,7 +1862,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "osad\\u00eda",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -1917,7 +1870,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "peleando",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1926,7 +1878,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "pena",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1934,7 +1885,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "prisi\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1942,7 +1892,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "regido",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -1951,7 +1900,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "saber",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -1960,7 +1908,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "solicitud?",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -1969,7 +1916,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "sospiros",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -1978,7 +1924,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "suerte",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -1986,7 +1931,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "sufrir",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -1995,7 +1939,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "triste",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2003,7 +1946,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "tristes",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2012,7 +1954,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "tristeza",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2021,7 +1962,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "turbada",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2030,7 +1970,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "vencido",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2039,7 +1978,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "venciste",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2048,7 +1986,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "virtud",
       "size": 0.4,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2057,7 +1994,6 @@ export const data = {
       "source": "Esfuerzo",
       "target": "virtud",
       "size": 0.4,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2066,7 +2002,6 @@ export const data = {
       "source": "Fuerza",
       "target": "alcaide",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2075,7 +2010,6 @@ export const data = {
       "source": "Fuerza",
       "target": "ardid",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2083,7 +2017,6 @@ export const data = {
       "source": "Fuerza",
       "target": "astucia",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2092,7 +2025,6 @@ export const data = {
       "source": "Fuerza",
       "target": "defendella",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2101,7 +2033,6 @@ export const data = {
       "source": "Fuerza",
       "target": "esfuerzo",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2110,7 +2041,6 @@ export const data = {
       "source": "Fuerza",
       "target": "fee",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2119,7 +2049,6 @@ export const data = {
       "source": "Fuerza",
       "target": "ganalla",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2128,7 +2057,6 @@ export const data = {
       "source": "Fuerza",
       "target": "ofrecimiento",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2137,7 +2065,6 @@ export const data = {
       "source": "Fuerza",
       "target": "saber",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2146,7 +2073,6 @@ export const data = {
       "source": "Fuerza",
       "target": "solicitud?",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2155,7 +2081,6 @@ export const data = {
       "source": "Fuerza",
       "target": "vencedores",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2164,7 +2089,6 @@ export const data = {
       "source": "Fuerza",
       "target": "virtud",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2173,7 +2097,6 @@ export const data = {
       "source": "Honra",
       "target": "alaben",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2181,7 +2104,6 @@ export const data = {
       "source": "Honra",
       "target": "alcanzar",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2190,7 +2112,6 @@ export const data = {
       "source": "Honra",
       "target": "almas",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2199,7 +2120,6 @@ export const data = {
       "source": "Honra",
       "target": "alta",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2207,7 +2127,6 @@ export const data = {
       "source": "Honra",
       "target": "amo",
       "size": 0.4,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2216,7 +2135,6 @@ export const data = {
       "source": "Honra",
       "target": "amo",
       "size": 0.4,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2225,7 +2143,6 @@ export const data = {
       "source": "Honra",
       "target": "artes",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2234,7 +2151,6 @@ export const data = {
       "source": "Honra",
       "target": "astuto",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2243,7 +2159,6 @@ export const data = {
       "source": "Honra",
       "target": "beneficios",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2252,7 +2167,6 @@ export const data = {
       "source": "Honra",
       "target": "bien",
       "size": 0.6,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2261,7 +2175,6 @@ export const data = {
       "source": "Honra",
       "target": "bien",
       "size": 0.6,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2270,7 +2183,6 @@ export const data = {
       "source": "Honra",
       "target": "bien",
       "size": 0.6,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2279,7 +2191,6 @@ export const data = {
       "source": "Honra",
       "target": "bienes?",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2288,7 +2199,6 @@ export const data = {
       "source": "Honra",
       "target": "buen",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2297,7 +2207,6 @@ export const data = {
       "source": "Honra",
       "target": "casa",
       "size": 0.4,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2305,7 +2214,6 @@ export const data = {
       "source": "Honra",
       "target": "casa",
       "size": 0.4,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2314,7 +2222,6 @@ export const data = {
       "source": "Honra",
       "target": "casta",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2323,7 +2230,6 @@ export const data = {
       "source": "Honra",
       "target": "caudal",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2332,7 +2238,6 @@ export const data = {
       "source": "Honra",
       "target": "causa",
       "size": 0.6,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2341,7 +2246,6 @@ export const data = {
       "source": "Honra",
       "target": "causa",
       "size": 0.6,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2349,7 +2253,6 @@ export const data = {
       "source": "Honra",
       "target": "causa",
       "size": 0.6,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2358,7 +2261,6 @@ export const data = {
       "source": "Honra",
       "target": "comer",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2366,7 +2268,6 @@ export const data = {
       "source": "Honra",
       "target": "concesi\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2374,7 +2275,6 @@ export const data = {
       "source": "Honra",
       "target": "cr\\u00eda",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2383,7 +2283,6 @@ export const data = {
       "source": "Honra",
       "target": "crecer",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2392,7 +2291,6 @@ export const data = {
       "source": "Honra",
       "target": "cuerpo",
       "size": 0.4,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2401,7 +2299,6 @@ export const data = {
       "source": "Honra",
       "target": "cuerpo",
       "size": 0.4,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2410,7 +2307,6 @@ export const data = {
       "source": "Honra",
       "target": "cuerpos",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2419,7 +2315,6 @@ export const data = {
       "source": "Honra",
       "target": "cumbre",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2427,7 +2322,6 @@ export const data = {
       "source": "Honra",
       "target": "da\\u00f1e",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2436,7 +2330,6 @@ export const data = {
       "source": "Honra",
       "target": "da\\u00f1es",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2445,7 +2338,6 @@ export const data = {
       "source": "Honra",
       "target": "da\\u00f1o",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2453,7 +2345,6 @@ export const data = {
       "source": "Honra",
       "target": "de",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2462,7 +2353,6 @@ export const data = {
       "source": "Honra",
       "target": "digno",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2470,7 +2360,6 @@ export const data = {
       "source": "Honra",
       "target": "dineros",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2479,7 +2368,6 @@ export const data = {
       "source": "Honra",
       "target": "discreci\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2487,7 +2375,6 @@ export const data = {
       "source": "Honra",
       "target": "due\\u00f1o",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2496,7 +2383,6 @@ export const data = {
       "source": "Honra",
       "target": "esfuerzo",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2505,7 +2391,6 @@ export const data = {
       "source": "Honra",
       "target": "estirado",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2514,7 +2399,6 @@ export const data = {
       "source": "Honra",
       "target": "experiencia",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2522,7 +2406,6 @@ export const data = {
       "source": "Honra",
       "target": "fama",
       "size": 1,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2531,7 +2414,6 @@ export const data = {
       "source": "Honra",
       "target": "fama",
       "size": 1,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2539,7 +2421,6 @@ export const data = {
       "source": "Honra",
       "target": "fama",
       "size": 1,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2548,7 +2429,6 @@ export const data = {
       "source": "Honra",
       "target": "fama",
       "size": 1,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2556,7 +2436,6 @@ export const data = {
       "source": "Honra",
       "target": "fama",
       "size": 1,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2565,7 +2444,6 @@ export const data = {
       "source": "Honra",
       "target": "fortuna",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2574,7 +2452,6 @@ export const data = {
       "source": "Honra",
       "target": "franqueza",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2583,7 +2460,6 @@ export const data = {
       "source": "Honra",
       "target": "fuerza",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2592,7 +2468,6 @@ export const data = {
       "source": "Honra",
       "target": "gana",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2600,7 +2475,6 @@ export const data = {
       "source": "Honra",
       "target": "ganancia",
       "size": 0.4,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2609,7 +2483,6 @@ export const data = {
       "source": "Honra",
       "target": "ganancia",
       "size": 0.4,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2618,7 +2491,6 @@ export const data = {
       "source": "Honra",
       "target": "ganaste",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2627,7 +2499,6 @@ export const data = {
       "source": "Honra",
       "target": "gloria",
       "size": 0.4,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2636,7 +2507,6 @@ export const data = {
       "source": "Honra",
       "target": "gloria",
       "size": 0.4,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2645,7 +2515,6 @@ export const data = {
       "source": "Honra",
       "target": "hacienda",
       "size": 0.6,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2654,7 +2523,6 @@ export const data = {
       "source": "Honra",
       "target": "hacienda",
       "size": 0.6,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2663,7 +2531,6 @@ export const data = {
       "source": "Honra",
       "target": "hacienda",
       "size": 0.6,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2672,7 +2539,6 @@ export const data = {
       "source": "Honra",
       "target": "hered\\u00f3",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2681,7 +2547,6 @@ export const data = {
       "source": "Honra",
       "target": "holgar",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2690,7 +2555,6 @@ export const data = {
       "source": "Honra",
       "target": "hombres",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2699,7 +2563,6 @@ export const data = {
       "source": "Honra",
       "target": "industrioso",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2708,7 +2571,6 @@ export const data = {
       "source": "Honra",
       "target": "inocencia",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2717,7 +2579,6 @@ export const data = {
       "source": "Honra",
       "target": "inventivo",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2726,7 +2587,6 @@ export const data = {
       "source": "Honra",
       "target": "justa",
       "size": 0.4,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2735,7 +2595,6 @@ export const data = {
       "source": "Honra",
       "target": "justa",
       "size": 0.4,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2743,7 +2602,6 @@ export const data = {
       "source": "Honra",
       "target": "liberal",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2752,7 +2610,6 @@ export const data = {
       "source": "Honra",
       "target": "liberalidad",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2761,7 +2618,6 @@ export const data = {
       "source": "Honra",
       "target": "libre",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2770,7 +2626,6 @@ export const data = {
       "source": "Honra",
       "target": "limpia",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2779,7 +2634,6 @@ export const data = {
       "source": "Honra",
       "target": "magn\\u00edfico",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2787,7 +2641,6 @@ export const data = {
       "source": "Honra",
       "target": "mansedumbre",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2796,7 +2649,6 @@ export const data = {
       "source": "Honra",
       "target": "merced",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2804,7 +2656,6 @@ export const data = {
       "source": "Honra",
       "target": "merecimiento",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2813,7 +2664,6 @@ export const data = {
       "source": "Honra",
       "target": "mundanos",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2822,7 +2672,6 @@ export const data = {
       "source": "Honra",
       "target": "negra",
       "size": 0.4,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2831,7 +2680,6 @@ export const data = {
       "source": "Honra",
       "target": "negra",
       "size": 0.4,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2840,7 +2688,6 @@ export const data = {
       "source": "Honra",
       "target": "nombre",
       "size": 1,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2849,7 +2696,6 @@ export const data = {
       "source": "Honra",
       "target": "nombre",
       "size": 1,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2858,7 +2704,6 @@ export const data = {
       "source": "Honra",
       "target": "nombre",
       "size": 1,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2867,7 +2712,6 @@ export const data = {
       "source": "Honra",
       "target": "nombre",
       "size": 1,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2876,7 +2720,6 @@ export const data = {
       "source": "Honra",
       "target": "nombre",
       "size": 1,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -2885,7 +2728,6 @@ export const data = {
       "source": "Honra",
       "target": "oficio?",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2894,7 +2736,6 @@ export const data = {
       "source": "Honra",
       "target": "p\\u00eda",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2903,7 +2744,6 @@ export const data = {
       "source": "Honra",
       "target": "padecen",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -2912,7 +2752,6 @@ export const data = {
       "source": "Honra",
       "target": "padre",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2921,7 +2760,6 @@ export const data = {
       "source": "Honra",
       "target": "pagos",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -2930,7 +2768,6 @@ export const data = {
       "source": "Honra",
       "target": "palabra",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2939,7 +2776,6 @@ export const data = {
       "source": "Honra",
       "target": "palabras",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -2948,7 +2784,6 @@ export const data = {
       "source": "Honra",
       "target": "pensamiento",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -2957,7 +2792,6 @@ export const data = {
       "source": "Honra",
       "target": "perdici\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2966,7 +2800,6 @@ export const data = {
       "source": "Honra",
       "target": "persona",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2974,7 +2807,6 @@ export const data = {
       "source": "Honra",
       "target": "posesi\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -2983,7 +2815,6 @@ export const data = {
       "source": "Honra",
       "target": "provecho",
       "size": 0.6,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -2991,7 +2822,6 @@ export const data = {
       "source": "Honra",
       "target": "provecho",
       "size": 0.6,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3000,7 +2830,6 @@ export const data = {
       "source": "Honra",
       "target": "provecho",
       "size": 0.6,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3009,7 +2838,6 @@ export const data = {
       "source": "Honra",
       "target": "prudencia",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3018,7 +2846,6 @@ export const data = {
       "source": "Honra",
       "target": "recompensados",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3027,7 +2854,6 @@ export const data = {
       "source": "Honra",
       "target": "remedio",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3036,7 +2862,6 @@ export const data = {
       "source": "Honra",
       "target": "rica",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3045,7 +2870,6 @@ export const data = {
       "source": "Honra",
       "target": "ricos",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3054,7 +2878,6 @@ export const data = {
       "source": "Honra",
       "target": "riquezas",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3063,7 +2886,6 @@ export const data = {
       "source": "Honra",
       "target": "sangre",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3072,7 +2894,6 @@ export const data = {
       "source": "Honra",
       "target": "santa",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3081,7 +2902,6 @@ export const data = {
       "source": "Honra",
       "target": "sufrir\\u00e1n",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3089,7 +2909,6 @@ export const data = {
       "source": "Honra",
       "target": "temor",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3098,7 +2917,6 @@ export const data = {
       "source": "Honra",
       "target": "toca",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3107,7 +2925,6 @@ export const data = {
       "source": "Honra",
       "target": "valent\\u00eda",
       "size": 0.4,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3116,7 +2933,6 @@ export const data = {
       "source": "Honra",
       "target": "valent\\u00eda",
       "size": 0.4,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3125,7 +2941,6 @@ export const data = {
       "source": "Honra",
       "target": "valor",
       "size": 0.6,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3134,7 +2949,6 @@ export const data = {
       "source": "Honra",
       "target": "valor",
       "size": 0.6,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3143,7 +2957,6 @@ export const data = {
       "source": "Honra",
       "target": "valor",
       "size": 0.6,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3151,7 +2964,6 @@ export const data = {
       "source": "Honra",
       "target": "venas",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3160,7 +2972,6 @@ export const data = {
       "source": "Honra",
       "target": "venci\\u00f3",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3169,7 +2980,6 @@ export const data = {
       "source": "Honra",
       "target": "vida",
       "size": 0.8,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3178,7 +2988,6 @@ export const data = {
       "source": "Honra",
       "target": "vida",
       "size": 0.8,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3186,7 +2995,6 @@ export const data = {
       "source": "Honra",
       "target": "vida",
       "size": 0.8,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3195,7 +3003,6 @@ export const data = {
       "source": "Honra",
       "target": "vida",
       "size": 0.8,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3204,7 +3011,6 @@ export const data = {
       "source": "Honra",
       "target": "virtud",
       "size": 1,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3213,7 +3019,6 @@ export const data = {
       "source": "Honra",
       "target": "virtud",
       "size": 1,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3222,7 +3027,6 @@ export const data = {
       "source": "Honra",
       "target": "virtud",
       "size": 1,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3231,7 +3035,6 @@ export const data = {
       "source": "Honra",
       "target": "virtud",
       "size": 1,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3240,7 +3043,6 @@ export const data = {
       "source": "Honra",
       "target": "virtud",
       "size": 1,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3249,7 +3051,6 @@ export const data = {
       "source": "Honra",
       "target": "voluntad",
       "size": 0.4,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3258,7 +3059,6 @@ export const data = {
       "source": "Honra",
       "target": "voluntad",
       "size": 0.4,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3267,7 +3067,6 @@ export const data = {
       "source": "Honra",
       "target": "yerro?",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3276,7 +3075,6 @@ export const data = {
       "source": "Justicia",
       "target": "agravios",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3285,7 +3083,6 @@ export const data = {
       "source": "Justicia",
       "target": "desesperarme",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3294,7 +3091,6 @@ export const data = {
       "source": "Justicia",
       "target": "sa\\u00f1a",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3302,7 +3098,6 @@ export const data = {
       "source": "Voluntad",
       "target": "almas",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3311,7 +3106,6 @@ export const data = {
       "source": "Voluntad",
       "target": "amor",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3320,7 +3114,6 @@ export const data = {
       "source": "Voluntad",
       "target": "bajar",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3329,7 +3122,6 @@ export const data = {
       "source": "Voluntad",
       "target": "buenos",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3337,7 +3129,6 @@ export const data = {
       "source": "Voluntad",
       "target": "casados",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3346,7 +3137,6 @@ export const data = {
       "source": "Voluntad",
       "target": "contrayentes",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3355,7 +3145,6 @@ export const data = {
       "source": "Voluntad",
       "target": "desenvoltura",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3364,7 +3153,6 @@ export const data = {
       "source": "Voluntad",
       "target": "deseos",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3373,7 +3161,6 @@ export const data = {
       "source": "Voluntad",
       "target": "desposase",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3382,7 +3169,6 @@ export const data = {
       "source": "Voluntad",
       "target": "desposorio",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3390,7 +3176,6 @@ export const data = {
       "source": "Voluntad",
       "target": "devoci\\u00f3n",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3399,7 +3184,6 @@ export const data = {
       "source": "Voluntad",
       "target": "enamoran",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     },
     {
@@ -3407,7 +3191,6 @@ export const data = {
       "source": "Voluntad",
       "target": "esposa",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3416,7 +3199,6 @@ export const data = {
       "source": "Voluntad",
       "target": "gusto",
       "size": 0.6,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3425,7 +3207,6 @@ export const data = {
       "source": "Voluntad",
       "target": "gusto",
       "size": 0.6,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3434,7 +3215,6 @@ export const data = {
       "source": "Voluntad",
       "target": "gusto",
       "size": 0.6,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3443,7 +3223,6 @@ export const data = {
       "source": "Voluntad",
       "target": "h\\u00e1gase",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3452,7 +3231,6 @@ export const data = {
       "source": "Voluntad",
       "target": "intento",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3461,7 +3239,6 @@ export const data = {
       "source": "Voluntad",
       "target": "milagroso",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3470,7 +3247,6 @@ export const data = {
       "source": "Voluntad",
       "target": "obedecelle",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3479,7 +3255,6 @@ export const data = {
       "source": "Voluntad",
       "target": "obras",
       "size": 0.2,
-      "type": "curve",
       "color": "violet",
       "hover_color": "#000"
     },
@@ -3488,7 +3263,6 @@ export const data = {
       "source": "Voluntad",
       "target": "p\\u00edas",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3497,7 +3271,6 @@ export const data = {
       "source": "Voluntad",
       "target": "queridos",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3506,7 +3279,6 @@ export const data = {
       "source": "Voluntad",
       "target": "rinden",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3515,7 +3287,6 @@ export const data = {
       "source": "Voluntad",
       "target": "sacramento",
       "size": 0.2,
-      "type": "curve",
       "color": "yellow",
       "hover_color": "#000"
     },
@@ -3524,7 +3295,6 @@ export const data = {
       "source": "Voluntad",
       "target": "sacrificio",
       "size": 0.2,
-      "type": "curve",
       "color": "orange",
       "hover_color": "#000"
     },
@@ -3533,7 +3303,6 @@ export const data = {
       "source": "Voluntad",
       "target": "se\\u00f1or",
       "size": 0.2,
-      "type": "curve",
       "color": "green",
       "hover_color": "#000"
     },
@@ -3542,7 +3311,6 @@ export const data = {
       "source": "Voluntad",
       "target": "servicio",
       "size": 0.2,
-      "type": "curve",
       "color": "blue",
       "hover_color": "#000"
     },
@@ -3551,7 +3319,6 @@ export const data = {
       "source": "Voluntad",
       "target": "valiente",
       "size": 0.2,
-      "type": "curve",
       "color": "red",
       "hover_color": "#000"
     },
@@ -3560,7 +3327,6 @@ export const data = {
       "source": "Voluntad",
       "target": "virtuosa",
       "size": 0.2,
-      "type": "curve",
       "hover_color": "#000"
     }
   ]

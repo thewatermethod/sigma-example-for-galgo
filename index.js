@@ -29,6 +29,7 @@ const s = new sigma({
         maxEdgeSize: 1, // 4,
         enableEdgeHovering: true,
         edgeHoverColor: "edge",
+		labelThreshold: 1,
         defaultEdgeHoverColor: "#000",
         edgeHoverSizeRatio: 1,
         edgeHoverExtremities: true,
@@ -41,6 +42,7 @@ s.bind('clickNode', function(e) {
     toKeep[nodeId] = e.data.node;
 
     s.graph.nodes().forEach(function(n) {
+		n.saved_color = n.color;
       if (toKeep[n.id]) {
         n.color = 'tomato';
       } else {
@@ -49,6 +51,7 @@ s.bind('clickNode', function(e) {
     });
 
     s.graph.edges().forEach(function(e) {
+		e.saved_color = e.color;
       if (toKeep[e.source] && toKeep[e.target]) {
         e.color = 'purple';
       } else{ 
@@ -60,4 +63,14 @@ s.bind('clickNode', function(e) {
     // call the refresh method to make the colors
     // update effective.
     s.refresh(); 
+  });
+  
+  s.bind('clickStage', function() {
+	  s.graph.nodes().forEach(function(n) {
+		  n.color = n.saved_color;
+		  });
+	  s.graph.edges().forEach(function(e) {
+		  e.color = e.saved_color;
+		  });
+	s.refresh();
   });
